@@ -77,6 +77,10 @@ If you're not comfortable contributing code, you can still help by adding exampl
 
 Thank you for your interest in contributing to this project!
 
+## Contact
+
+If you have any questions or issues with this project, please don't hesitate to contact me. You can reach me on Discord at `SemIdeia_#5127`. Feel free to send me a message if you need help, have a suggestion, or just want to say hi!
+
 ## License
 
 This project is licensed under the MIT License. Please see the [LICENSE](LICENSE) file for more details.
