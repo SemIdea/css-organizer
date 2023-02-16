@@ -2,7 +2,7 @@ class CssOrganizer {
   constructor(cssString) {
     // Constructor that initializes the cssString and categoryList properties
     this.cssString = cssString;
-    this.categoryList = require("./list.json");
+    this.categoryList = require("./css-properties.json");
   }
 
   minifyCss() {
