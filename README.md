@@ -4,7 +4,7 @@ This is a JavaScript class that helps organize and sort CSS properties within a 
 
 The `minifyCss` method reduces the whitespace within the CSS stylesheet to create a more compact version.
 
-The `organizeCss` method sorts the CSS properties based on categories listed in `list.json` file and returns an organized CSS string.
+The `organizeCss` method sorts the CSS properties based on categories listed in `css-properties.json` file and returns an organized CSS string.
 
 ## Table of Contents
 
@@ -59,13 +59,13 @@ body {
 
 * **CSS Minification**: The `minifyCss` method reduces whitespace within the CSS stylesheet to create a more compact version.
 
-* **Customizable Categories**: Categories are defined in a `list.json` file and can be easily customized or extended.
+* **Customizable Categories**: Categories are defined in a `css-properties.json` file and can be easily customized or extended.
 
 * **Flexible Usage**: This class can be easily integrated into any JavaScript project, and can be used to organize and minify CSS strings programmatically.
 
 ## Notes
 
-The `list.json` file included in this project is not exhaustive and may not include every CSS property. You can contribute to the project by sending your own list.json file to us or by creating a pull request with your additions.
+The `css-properties.json` file included in this project is not exhaustive and may not include every CSS property. You can contribute to the project by sending your own css-properties.json file to us or by creating a pull request with your additions.
 
 ## Contributing
 
